@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class CalculadoraMagicNumber {
     public static void main(String[] args) {
-        Scanner pink = new Scanner(System.in);
-        double azul [] = new double [2];
+        Scanner input = new Scanner(System.in);
+        double valores [] = new double [2];
         
         //Introducao
         System.out.println("\n---MAGIC NUMBER---\n");
@@ -16,25 +16,25 @@ public class CalculadoraMagicNumber {
         
         //ObterValores
         System.out.println("Qual o valor da última cotação ?");
-            azul[0]=pink.nextDouble();
+            valores[0]=input.nextDouble();
 
         System.out.println("Qual o valor do último rendimento ?");
-            azul[1]=pink.nextDouble();
+            valores[1]=input.nextDouble();
         
         //Calculos    
-        double cotas= MagicNumber(azul);
-        double investimento=ValorInvestir(azul,cotas);
+        double cotas= MagicNumber(valores);
+        double investimento=ValorInvestir(valores,cotas);
 
         //Resultados
         System.out.println("\nA quantidade de cotas para atingir o MAGIC NUMBER é: "+cotas+" (aproximado)");
         System.out.println("Valor a ser investido: R$"+investimento);
   } 
    
-   public static double MagicNumber(double amarelo []){
-     return amarelo[0]/amarelo[1];
+   public static double MagicNumber(double valores []){
+     return valores[0]/valores[1];
    }
-   public static double ValorInvestir(double bicinho[], double cotas){    
-    return bicinho[0]*cotas; 
+   public static double ValorInvestir(double valores[], double cotas){    
+    return valores[0]*cotas; 
    }
 }   
     
