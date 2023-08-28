@@ -4,13 +4,13 @@ Você já se perguntou como poderia estimar a quantidade de cotas de um fundo im
 
 ## Aqui estão os passos simples para usar a Calculadora Magic Number:
 
-**Introdução Mágica**: Ao executar o programa, você será recebido com uma introdução sobre como a calculadora funciona e qual é o seu propósito. Ela foi projetada para ajudá-lo a tomar decisões informadas sobre seus investimentos em fundos imobiliários.
+1. **Introdução Mágica**: Ao executar o programa, você será recebido com uma introdução sobre como a calculadora funciona e qual é o seu propósito. Ela foi projetada para ajudá-lo a tomar decisões informadas sobre seus investimentos em fundos imobiliários.
 
-**Obtenção dos Valores**: Você será solicitado a inserir o valor da última cotação do fundo imobiliário e o valor do último rendimento recebido. Esses valores são essenciais para realizar os cálculos.
+2. **Obtenção dos Valores**: Você será solicitado a inserir o valor da última cotação do fundo imobiliário e o valor do último rendimento recebido. Esses valores são essenciais para realizar os cálculos.
 
-**Cálculos Encantados**: Com os valores em mãos, a calculadora realizará os cálculos necessários para determinar a quantidade de cotas que, quando multiplicadas pelo rendimento mensal, aproximadamente igualarão o valor da cota do fundo.
+3. **Cálculos Encantados**: Com os valores em mãos, a calculadora realizará os cálculos necessários para determinar a quantidade de cotas que, quando multiplicadas pelo rendimento mensal, aproximadamente igualarão o valor da cota do fundo.
 
-**Resultados Mágicos**: Em questão de segundos, a Calculadora Magic Number revelará a quantidade estimada de cotas necessárias para atingir o tão desejado "MAGIC NUMBER". Além disso, ela fornecerá o valor aproximado que você precisaria investir com base nesse cálculo.
+4. **Resultados Mágicos**: Em questão de segundos, a Calculadora Magic Number revelará a quantidade estimada de cotas necessárias para atingir o tão desejado "MAGIC NUMBER". Além disso, ela fornecerá o valor aproximado que você precisaria investir com base nesse cálculo.
 
 ## Contribuições
 Sinta-se à vontade para fazer fork deste repositório, abrir problemas (issues) e enviar solicitações de pull requests com melhorias, correções ou recursos adicionais. Suas contribuições são bem-vindas!
