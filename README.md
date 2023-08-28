@@ -1,11 +1,16 @@
 # Magic-Number
-Este código é uma ferramenta simples jeito em Java que ajuda a calcular a quantidade de cotas necessárias para que o recebimento mensal de proventos de um fundo imobiliário se aproxime do valor da cota do mesmo. Essa ferramenta é útil para investidores interessados em alcançar um "MAGIC NUMBER", ou seja, um valor específico de investimento que permita atingir um rendimento desejado.
 
-## Como funciona
-A Calculadora Magic Number solicita ao usuário dois valores essenciais: a última cotação do fundo imobiliário e o último rendimento recebido. Com base nesses valores, ela realiza os seguintes passos:
+Você já se perguntou como poderia estimar a quantidade de cotas de um fundo imobiliário necessárias para que seus proventos mensais se aproximem do valor da cota do fundo? Bem, essa é a pergunta que a Calculadora Magic Number se propõe a responder de forma simples e eficaz. Com base nas últimas cotações e rendimentos do fundo, ela calcula uma estimativa da quantidade de cotas que você precisaria para atingir esse objetivo.
 
-1. **Cálculo do Magic Number**: Utilizando a função MagicNumber, a calculadora divide o valor da última cotação pelo valor do último rendimento. Isso proporciona uma estimativa da quantidade de cotas necessárias para atingir o rendimento desejado.
-2. **Cálculo do Valor a Investir**: Através da função ValorInvestir, a calculadora multiplica a quantidade de cotas calculada anteriormente pelo valor da última cotação. Isso resulta no valor aproximado que precisa ser investido para alcançar o "MAGIC NUMBER".
+## Aqui estão os passos simples para usar a Calculadora Magic Number:
+
+**Introdução Mágica**: Ao executar o programa, você será recebido com uma introdução sobre como a calculadora funciona e qual é o seu propósito. Ela foi projetada para ajudá-lo a tomar decisões informadas sobre seus investimentos em fundos imobiliários.
+
+**Obtenção dos Valores**: Você será solicitado a inserir o valor da última cotação do fundo imobiliário e o valor do último rendimento recebido. Esses valores são essenciais para realizar os cálculos.
+
+**Cálculos Encantados**: Com os valores em mãos, a calculadora realizará os cálculos necessários para determinar a quantidade de cotas que, quando multiplicadas pelo rendimento mensal, aproximadamente igualarão o valor da cota do fundo.
+
+**Resultados Mágicos**: Em questão de segundos, a Calculadora Magic Number revelará a quantidade estimada de cotas necessárias para atingir o tão desejado "MAGIC NUMBER". Além disso, ela fornecerá o valor aproximado que você precisaria investir com base nesse cálculo.
 
 ## Contribuições
 Sinta-se à vontade para fazer fork deste repositório, abrir problemas (issues) e enviar solicitações de pull requests com melhorias, correções ou recursos adicionais. Suas contribuições são bem-vindas!
